@@ -1,13 +1,13 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+  name        : "Tung Cheuk Hin"
+  uri         : "http://tchisme.github.io"
+  email       : "chtungab@connect.ust.hk"
+  bio         : "Welcome"
+  avatar      : "Bombardino_Crocodilo.jpg"
+  twitter     : "tchisme"
+  google_plus : 
 
 Name2 Name2:
   name        : "Name2 Name2"
@@ -15,4 +15,4 @@ Name2 Name2:
   bio         : "I ordered what?"
   avatar      : "bio-photo.jpg"
   twitter     : "name2"
-  google_plus : "Name"
+  google_plus : "Name" 
