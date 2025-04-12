@@ -22,7 +22,7 @@ repository               : "tchisme/tchisme.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Bombardino_Crocodilo.jpg"
+  avatar           : "Bombardino_Crocodilo.jpeg"
   name             : "Tung Cheuk Hin"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : "tchisme"
   lastfm           : # Username
-  linkedin         : "Tung Cheuk Hin"
+  linkedin         : "www.linkedin.com/in/cheuk-hin-tung-348718243"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
