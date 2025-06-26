@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Oscar's Homepage"
+title                    : "Home"
 title_separator          : "-"
 name                     : "Tung Cheuk Hin"
 description              : &description "personal description"
@@ -57,7 +57,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "tchisme"
+  instagram        : # Username
   lastfm           : # Username
   linkedin         : "www.linkedin.com/in/cheuk-hin-tung-348718243"
   mastodon         : # URL
