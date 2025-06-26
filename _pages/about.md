@@ -18,6 +18,7 @@ Outside of academics, I enjoy spending my leisure time exploring a variety of in
 - 📈Investing
 - ♟️Chess
 
-
+## 📚Education
+🎓BSc in Mathematics
 
 

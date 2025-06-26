@@ -11,8 +11,6 @@ In this [Project](files/Capstone_Project.pdf), me and my group mate investigates
 - 🚌 Bus Transport (KMB and Citybus)
 - ✈️ Airlines (Cathay Pacific and Hong Kong Airlines)
 
-<embed src="/files/Capstone_Project.pdf" type="application/pdf" width="100%" height="600px" />
-
 ## 🧠Concepts and Knowledge Used
 1. Economic Theory of Duopoly
 - Assumes two firms, homogeneous goods, and competitive pricing.
